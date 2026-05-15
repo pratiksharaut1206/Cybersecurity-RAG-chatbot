@@ -1,0 +1,62 @@
+Phishing is a cyberattack that tricks individuals into revealing sensitive information or installing malware by impersonating trusted entities.
+What is Phishing?
+Phishing is a form of social engineering where attackers deceive people into sharing sensitive information, such as passwords, credit card numbers, or personal data, or into installing malware like viruses, ransomware, or spyware. Unlike direct network attacks, phishing exploits human trust and error, often using fake messages, urgent requests, or impersonation of trusted sources like banks, colleagues, or well-known brands. 
+Wikipedia
++2
+Common Types of Phishing
+Email Phishing: Bulk emails that appear legitimate, often containing malicious links or attachments. 
+2
+Spear Phishing: Targeted attacks using personalized information to trick specific individuals or organizations, often executives or financial staff. 
+1
+Whaling: A type of spear phishing aimed at high-profile targets like CEOs or government officials. 
+1
+Vishing (Voice Phishing): Phone calls that impersonate trusted entities to extract sensitive information. 
+2
+Smishing (SMS Phishing): Text messages that lure victims to malicious websites or request personal data. 
+2
+Quishing (QR Code Phishing): Malicious QR codes that redirect users to harmful websites. 
+2
+Adversary-in-the-Middle (AiTM) Phishing: Advanced attacks that intercept session tokens or bypass multi-factor authentication. 
+1
+
+
+3 Sources
+How Phishing Works
+Phishing attacks often create a sense of urgency or emotional manipulation, prompting victims to act quickly without verifying the legitimacy of the request. Attackers may ask users to: 
+Justice.gov.uk
+Click on a malicious link
+Open an infected attachment
+Provide login credentials or financial information
+Make payments or transfer money
+Modern phishing campaigns can be highly sophisticated, using AI, automation, and stolen data to craft convincing messages that are difficult to detect. 
+1
+
+1 Source
+Risks and Consequences
+Phishing can lead to:
+Identity theft and financial fraud
+Account takeovers for email, cloud services, or streaming platforms
+Malware infections, including ransomware
+Corporate data breaches and business email compromise
+Further phishing attacks using stolen credentials 
+3
+
+Statistics show phishing is the most common cybercrime, with attacks rising from 72% of businesses in 2017 to 94% in 2023. It is also a leading cause of data breaches, costing organizations millions of dollars per incident. 
+2
+
+
+3 Sources
+Prevention and Protection
+To reduce the risk of phishing:
+Verify sources: Avoid clicking links or opening attachments from unknown or suspicious senders. 
+2
+Use multi-factor authentication (MFA): Adds an extra layer of security even if credentials are compromised. 
+1
+Educate and train users: Awareness programs help individuals recognize phishing attempts. 
+2
+Keep software updated: Security patches reduce vulnerabilities that attackers exploit. 
+1
+Report phishing attempts: Forward suspicious emails to authorities or cybersecurity teams. 
+1
+
+By combining technical measures, user education, and vigilance, both individuals and organizations can significantly reduce the impact of phishing attacks.

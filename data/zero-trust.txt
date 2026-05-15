@@ -1,0 +1,14 @@
+01
+
+What is zero trust?
+Zero trust is a security framework that assumes no entity—inside or outside the network—can be trusted by default, so every request must be verified before access is granted.
+
+02
+
+Why do you need zero trust?
+Traditional security models trust users or devices just for being "inside" the network. In our world of remote work, cloud services, and constant cyberthreats, that puts the network at risk.
+
+03
+
+How does zero trust work?
+Zero trust continuously verifies a user's identity, device, and access requests—only allowing what's necessary and blocking everything else by default.
